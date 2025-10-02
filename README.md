@@ -40,17 +40,15 @@ Esta é uma landing page moderna e responsiva criada como um portfólio. A pági
 
 1.  Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/landingpage-gemini
+    git clone https://github.com/advancce/landingpage-gemini.git
     ```
 2.  Navegue até o diretório do projeto:
-    ```bash
-    cd seu-repositorio
-    ```
+
 3.  Abra o arquivo `index.html` no seu navegador de preferência.
 
 ## Autor
 
-[Seu Nome](https://https://github.com/isaacmacb)
+[Isaac Maciel](https://https://github.com/isaacmacb)
 
 ## Licença
 
